@@ -1,3 +1,5 @@
+#gpl v3
+
 from pylibpd import *
 import array
 import pygame
